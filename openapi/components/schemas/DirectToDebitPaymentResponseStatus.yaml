@@ -48,7 +48,7 @@ properties:
           PaymentResponseCode:
             type: string
             description: Payment Response for Payment response code 3001
-          PaymentResponseCodeDesc:
+          PaymentResponseCodeDesc: 
             type: string
             description: Direct To Debit Payment is in Pending status
           TransactionId:
